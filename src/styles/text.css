@@ -1,0 +1,28 @@
+.title-1 {
+    font-size: 32px;
+    color: var(--color-grey-7);
+    line-height: 48px;
+    font-weight: 600;
+}
+
+.title-1 {
+    font-size: 24px;
+    color: var(--color-grey-7);
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.text-1 {
+    font-size: 20px;
+    color: var(--color-grey-7);
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.text-2 {
+    font-size: 14px;
+    color: var(--color-grey-7);
+    line-height: 21px;
+    font-weight: 500;
+}
+
